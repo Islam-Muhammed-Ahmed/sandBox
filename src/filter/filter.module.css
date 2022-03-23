@@ -1,0 +1,18 @@
+.parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  caret-color: blue;
+  padding: 12px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  padding-top: 15px;
+}
+
+.error {
+  border: 1px solid red;
+}
